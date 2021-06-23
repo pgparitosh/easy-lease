@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EasyLease.Web/EasyLease.Web.csproj.user
+/EasyLease.Web/bin
+/EasyLease.Model/obj
+/EasyLease.Model/bin
+/.vs/EasyLease
+/EasyLease.Web/obj
